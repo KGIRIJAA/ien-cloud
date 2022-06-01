@@ -6,7 +6,7 @@
   "Parameters" : {
     "VpcId" : {
       "Type" : "AWS::EC2::VPC::Id",
-      "Description" : "VpcId of your existing Virtual Private Cloud (VPC)",
+      "Description" : "VPCId of your existing Virtual Private Cloud (VPC)",
       "ConstraintDescription" : "must be the VPC Id of an existing Virtual Private Cloud."
     },
 
