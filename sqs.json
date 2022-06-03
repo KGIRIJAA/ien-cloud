@@ -51,7 +51,7 @@
   },
   "Outputs" : {
     "QueueURL" : {
-      "Description" : "URL of newly created SQS Queue",
+      "Description" : "url of newly created SQS Queue",
       "Value" : { "Ref" : "MyQueue" }
     },
     "QueueARN" : {
